@@ -1,0 +1,133 @@
+{
+    "main": {
+      "name": "John Klerck",
+      "occupation": "B.SC Information Technology Student",
+      "description": "I'm an aspiring Developer with interests in AI, System Design and Data-Mining.",
+      "image": "profilepic.jpg",
+      "bio": "I am a fun loving guy who loves to spend time outdoors mountainbiking, skateboarding or hiking. I'm an amateur photographer and avid gamer. I love to travel, throughout South Africa and Europe",
+      "contactmessage": "Contact me if you ever want to collaborate on a project or have some work you need done!",
+      "email": "johnklerck@protonmail.com",
+      "phone": "555-555-5555",
+      "address": {
+        "street": "(Your Street)",
+        "city": "Potchefstroom",
+        "state": "North-West",
+        "zip": "2531"
+      },
+      "website": "http://www.timbakerdev.com",
+      "resumedownload": "https://mega.nz/file/Qpk0HZDa#xA9WFuYgf-mycyN4m3CqUAhUTxYI2UQpp-JfwHrX7sY",
+      "social": [
+        
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/jk_Blank",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/john-klerck-b6ba46177/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/jk.blank/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/jkblank",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "I am well versed in Git, Java, PostgreSql and ASP.net. I like to do small Video editing projects, and play around in Linux. I'm not afraid to learn new skills, and will rise to the occasion.",
+      "education": [
+        {
+          "school": "North West University",
+          "degree": "B.Sc Information Technology",
+          "graduated": "December 2021",
+          "description": "I Completed my Bachelors degree in Three years with a 75% module average. I learnt how to use Java, C++, C#, SQL and Python and more."
+        },
+        {
+          "school": "Hugenot High School",
+          "degree": "High School Diploma",
+          "graduated": "December 2016",
+          "description": "I Completed High School with a 85% Module average. I graduated at 15th position in my class with Maths, Science, Biology and Accounting as my Subjects."
+        }
+      ],
+      "work": [
+        {
+          "company": "TheBlankCompany",
+          "title": "Managing Member/Freelancer",
+          "years": "April 2021 - Present",
+          "description": "I do many small projects, such as Home and Office system setup, Security/CCTV System Maintenance and Freelance Software and System documentation. I also dabble in Video editing."
+        },
+        {
+          "company": "NovaLife",
+          "title": "Tele-Sales Consultant",
+          "years": "June 2019 - December 2019",
+          "description": "I worked mostly doing cold calling, generating sales leads for the sales team. This comprised of establishing rapport with the client, confirming contact and other details and gathering personal information."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Git",
+          "level": "80%"
+        },
+        {
+          "name": "Java",
+          "level": "70%"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "70%"
+        },
+        {
+          "name": "ASP.Net",
+          "level": "80%"
+        },
+        {
+          "name": "Python",
+          "level": "75%"
+        },
+        {
+          "name": "Da Vinci Resolve",
+          "level": "65%"
+        },
+        {
+          "name": "Linux",
+          "level": "60%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Discovery Account System",
+          "category": "A MVC backend with Swagger-API built in Java with Springboot for a University Project.",
+          "image": "thumbnail-discovery_logo_-_full_colour.png",
+          "url": "https://github.com/jkblank/NewDiscoveryAccountSystem"
+        },
+        {
+          "title": "Postalot Server",
+          "category": "A MVC backend with Open-API built in Node.js and Loopback for a University Project",
+          "image": "postalot-logo.png",
+          "url": "https://github.com/TheBlankMan-Banshee/PostaLotServer"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "John has great willingness to learn and has assisted many of his fellow students in their own projects and has been actively involved in the student support groups. He has shown a keen interest in developing technologies and has risen to every challenge that has been thrown his way. ",
+          "user": "Zander Boonzaaier - Lecturer at North West University Potchefstroom"
+        },
+        {
+          "text":"John is one of the best Apex players I have seen in my life. You want this guy on your team!",
+          "user": "Marnus Steenkamp"
+        }
+      ]
+    }
+  }
+  
