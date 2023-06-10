@@ -1,6 +1,6 @@
 # Hi, I'm John Klerck
 
-I'm hold a B.SC in Information Technology and am currently completing my B.Sc Honours in Computer Science, focusing on Project Management and Image Processing. 
+I hold a B.SC Honours in COmputer Science and am currently completing my M.Sc in Computer Science, focusing on Project Management and Image Processing. 
 
 I usually work with C, C#, Java and Python.
 
